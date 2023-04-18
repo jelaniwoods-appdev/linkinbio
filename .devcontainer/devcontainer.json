@@ -3,7 +3,7 @@
 {
   "name": "Container",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-  "image": "bpurinton/linkinbio-codespace-march2023",
+  "image": "jelaniwoods/appdev2023-linkinbio",
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},
